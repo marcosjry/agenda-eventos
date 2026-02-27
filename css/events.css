@@ -1,0 +1,62 @@
+/* Events Page Styles */
+.event-description {
+    max-width: 700px;
+}
+
+.event-header-gradient {
+    background: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%);
+}
+
+.event-card-gradient {
+    height: 160px;
+    background: linear-gradient(135deg, #f0f4ff 0%, #e0e7ff 100%);
+}
+
+.event-badge {
+    font-weight: 500;
+}
+
+.event-details-btn {
+    font-weight: 500;
+}
+
+.event-header-description {
+    line-height: 1.6;
+}
+
+.event-search-filter-btn {
+    padding: 0.75rem 1.25rem;
+    white-space: nowrap;
+}
+
+.event-search-icon {
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.event-search-input {
+    padding-left: 3rem;
+}
+
+.event-search-input-hide {
+    padding-left: 3rem;
+    display: none;
+}
+
+.event-search-input-show {
+    padding-left: 3rem;
+    display: block;
+}
+
+.event-search-btn {
+    font-weight: 500;
+}
+
+.event-clear-btn {
+    font-weight: 500;
+}
+
+.event-subscribe-btn {
+    font-weight: 500;
+}

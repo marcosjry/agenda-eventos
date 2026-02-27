@@ -1,0 +1,6 @@
+/* Profile Page Styles */
+.profile-btn-save,
+.profile-btn-cancel,
+.profile-btn-delete {
+    font-weight: 500;
+}

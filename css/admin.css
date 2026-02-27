@@ -1,0 +1,10 @@
+/* Admin Dashboard Styles */
+.admin-btn-primary,
+.admin-btn-edit,
+.admin-btn-activate,
+.admin-btn-deactivate,
+.admin-btn-delete,
+.admin-btn-save,
+.admin-btn-cancel {
+    font-weight: 500;
+}
